@@ -1,4 +1,3 @@
-// add whatever parameters you deem necessary
 function averagePair (arr, target, left = 0, right = arr.length - 1) {
 	while (left < right) {
 		const avg = (arr[left] + arr[right]) / 2;

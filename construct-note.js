@@ -1,5 +1,3 @@
-// add whatever parameters you deem necessary
-
 function freqCounter (str) {
 	let frequency = {};
 	for (let el of str) {

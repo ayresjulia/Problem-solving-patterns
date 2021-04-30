@@ -1,4 +1,3 @@
-// add whatever parameters you deem necessary
 function makefreqCounter (arr) {
 	let res = Object.assign({}, arr);
 	return res;
