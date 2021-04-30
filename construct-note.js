@@ -17,4 +17,4 @@ function constructNote (msg, letters) {
 	return true;
 }
 
-module.exports = { freqCounter, constructNote };
+module.exports = { constructNote };
