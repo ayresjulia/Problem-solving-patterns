@@ -1,4 +1,4 @@
-const { freqCounter, constructNote } = require("./construct-note");
+const { constructNote } = require("./construct-note");
 
 describe("constructNote", function () {
 	it("should return false for empty letters string", function () {
